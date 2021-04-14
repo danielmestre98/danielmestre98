@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielmestre98
 - 👀 I’m interested in devoloping, team work, learning new things!
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently learning Laravel with React
 - 💞️ I’m looking to collaborate on laravel, php projects
 - 📫 How to reach me on my email dmestreloureiro@gmail.com
 
