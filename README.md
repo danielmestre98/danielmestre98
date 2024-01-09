@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielmestre98
 - 👀 I’m interested in devoloping, team work, learning new things!
-- 💞️ I’m looking to collaborate on laravel, php projects
+- 💞️ I’m looking to collaborate on laravel, php projects, NodeJs and ReactJs
 - 📫 How to reach me on my email dmestreloureiro@gmail.com
 
 <!---
